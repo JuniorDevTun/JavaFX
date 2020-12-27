@@ -1,0 +1,12 @@
+.root{
+	-fx-spacing: 10;
+	-fx-background: #262626;
+}
+
+.label{
+	-fx-text-fill: #000000;
+}
+
+.blueLabel{
+	-fx-text-fill: #0000ff;
+}
